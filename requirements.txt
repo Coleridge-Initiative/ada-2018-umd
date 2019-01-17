@@ -1,0 +1,15 @@
+geopandas
+graphviz
+ipykernel
+ipywidgets
+pandas
+psycopg2
+pydotplus
+pysal
+rtree
+seaborn
+scikit-learn
+sqlalchemy
+recordlinkage
+nltk
+ujson
