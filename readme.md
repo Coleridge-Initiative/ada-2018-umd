@@ -83,4 +83,4 @@ The primary datasets used in the program are all stored in the PostgreSQL databa
   + and some auxiliary tables for code definitions and parolees
 
 ### Jupyter kernel
-The Python3 kernel used in these notebooks was using the `requirements.txt` file.
+The Python3 kernel used in the program [notebooks](notebooks/) is specified in the `requirements.txt` file.
